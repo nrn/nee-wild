@@ -1,0 +1,29 @@
+{
+  "name": "nee-wild",
+  "version": "0.0.0",
+  "description": "Novel Event Emitter wildcard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nrn/nee-wild"
+  },
+  "keywords": [
+    "novel",
+    "event",
+    "emitter",
+    "wild"
+  ],
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrn/nee-wild/issues"
+  },
+  "homepage": "https://github.com/nrn/nee",
+  "devDependencies": {
+    "nee": "^0.0.1",
+    "tape": "^2.13.4"
+  }
+}
